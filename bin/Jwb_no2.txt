@@ -1,0 +1,7 @@
+data matrix 
+        likes   comen   share
+john    4       101     8
+rudi    2       302     10  
+shinta  50      430     45
+dody    8       106     9
+
