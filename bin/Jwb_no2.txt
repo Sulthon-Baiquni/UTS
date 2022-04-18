@@ -5,3 +5,8 @@ rudi    2       302     10
 shinta  50      430     45
 dody    8       106     9
 
+kolerasi :
+john like ke = 1        john comen ke = 1       john share ke = 1
+rudi like ke = 1        rudi comen ke = 1       rudi comen ke = 1
+shinta like ke = 1      shinta comen ke = 1     shinta share ke 1
+dody like ke = 1        dody comen ke = 1       dody share ke = 1
